@@ -1,1 +1,2 @@
-geth --rpc --rpcport 8545 --rpccorsdomain * --datadir ./testChain/ --port 30304 --rpcapi db,eth,net,web3 --fast --cache=2048 --networkid 4449 --bootnodes enode://2a10ee6da369a4e6d972230c9f42f21ce206a93266f9a2abb807e407225e11b6628dc6df77de0f88602266a8aab2428567e6624f57b2c4929d82b666375bd0ae@192.168.51.202:30304 console
+geth --rpc --rpcport 8545 --rpccorsdomain * --datadir ./testChain/ --port 30304 --rpcapi db,eth,net,web3 --fast --cache=2048 --networkid 4449 --bootnodes enode://2dad3ec65c3739c7e11a22063fde4042759e9187e280c9c3e6093ec7e9c6da
+49358ae4f9b84e35da6f5bba7430f67c3b4aa8d46e0627709022c978920afa3f04@192.168.51.142:30304 console
